@@ -1,0 +1,23 @@
+{
+  "name": "openai-playground",
+  "version": "1.0.0",
+  "description": "Openai playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandromicheloud/openai.git"
+  },
+  "keywords": [
+    "Openai",
+    "playground"
+  ],
+  "author": "Alejandro Micheloud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandromicheloud/openai/issues"
+  },
+  "homepage": "https://github.com/alejandromicheloud/openai#readme"
+}
